@@ -1,2 +1,2 @@
-# gimmRW
-gimmR package for windows
+# gimmR
+R package for genomics data analysis using infinite mixture models
